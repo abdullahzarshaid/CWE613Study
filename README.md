@@ -4,7 +4,8 @@ Research materials accompanying the manuscript **"Logout Is Not Expiration: A So
 Semantic Characterization of CWE-613."**
 
 **Authors:** Abdullah Bin Zarshaid, Shahbaz Akhtar Siddiqui
-**Status:** Manuscript prepared for submission to *IEEE Access* (not yet peer-reviewed or published).
+**Status:** Submitted to *IEEE Access*, as reported by the author. This repository does not establish
+acceptance or publication. The archived manuscript retains its original version-specific wording.
 
 ---
 
@@ -36,7 +37,8 @@ examples of the distinct checks.
   **not** a measure of "logout failures" alone.
 - Under recorded alternative interpretations the combined share ranges **37.44%–55.99%**, which supports a
   **substantial event-driven component but not a robust majority claim.**
-- Repeat-coding reliability on a 120-record archived comparison: **118/120 agreement, Cohen's κ = 0.979.**
+- Model-assisted repeat-coding consistency on a 120-record archived comparison: **118/120 agreement,
+  Cohen's κ = 0.979.** This is not independent human accuracy or human inter-rater reliability.
 
 The paper deliberately avoids over-claiming: it documents the *plurality of meanings* inside CWE-613 and
 provides the evidence trail, rather than asserting a single dominant cause.
@@ -70,6 +72,11 @@ conditions and limitations, and `Supplement/dataset/Codebook.txt` for the coding
   academic practice and is retained deliberately.
 
 ## Rights and reuse — please read before redistributing
+
+**Public-release review pending:** the repository is public, but the retained package contains
+peer-review-only distribution language. Availability does not establish component permissions.
+A component-by-component rights review and author-approved release are still required. The frozen
+archive has not been changed to manufacture approval or remove scientific evidence.
 
 **`Supplement.zip` is a scholarly peer-review package, not an open-source or Creative Commons release.**
 It bundles content whose rights remain with their holders — including MITRE/CWE catalogue content (under
